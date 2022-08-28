@@ -1,0 +1,36 @@
+body {
+    background-color:rgb(251, 13, 40);
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    padding: 100px;
+}
+
+.total-items {
+    background-color: black;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.inner-div {
+    background-color: black;
+    display: flex;
+    align-items: center;
+    padding: 30px;
+}
+
+.innerbtn {
+    margin: 10px;
+}
+
+h4 {
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(236, 236, 236);
+}
